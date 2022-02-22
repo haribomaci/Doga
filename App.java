@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class App {
 	
 	public static void main (String[] args) {
-			System.out.println("Toth Julia, 2022-02-16, Szoft 1/N");
+			System.out.println("Toth Julia, 2022-02-16, Szoft 1/N, dolgozat");
 			System.out.println("Feladat: 0349");
 			Scanner scan = new Scanner(System.in);
 			
